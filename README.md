@@ -1,6 +1,8 @@
 # Estudo Flutter
 
 Projeto de estudo com o objetivo de explorar e praticar o desenvolvimento de aplicações móveis utilizando o framework Flutter.
+Criei um projeto com auxilio do CodeLab:
+- [CodeLab Flutter](https://docs.flutter.dev/get-started/codelab)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -11,8 +13,6 @@ Projeto de estudo com o objetivo de explorar e praticar o desenvolvimento de apl
 
 - [ ] Interface responsiva
 - [ ] Navegação entre telas
-- [ ] Consumo de APIs
-- [ ] Armazenamento local
 
 ## 🛠️ Instalação
 
