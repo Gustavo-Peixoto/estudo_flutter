@@ -1,16 +1,21 @@
-# estudo_flutter
+# Estudo Flutter
 
-A new Flutter project.
+Projeto de estudo com o objetivo de explorar e praticar o desenvolvimento de aplicações móveis utilizando o framework Flutter.
 
-## Getting Started
+## 🚀 Tecnologias Utilizadas
 
-This project is a starting point for a Flutter application.
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [ ] Interface responsiva
+- [ ] Navegação entre telas
+- [ ] Consumo de APIs
+- [ ] Armazenamento local
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Gustavo-Peixoto/estudo_flutter.git
